@@ -1,7 +1,0 @@
-************* Module support_ticket_tracker
-support_ticket_tracker.py:9:0: R0913: Too many arguments (6/5) (too-many-arguments)
-support_ticket_tracker.py:9:0: R0917: Too many positional arguments (6/5) (too-many-positional-arguments)
-
-------------------------------------------------------------------
-Your code has been rated at 9.71/10 (previous run: 9.71/10, +0.00)
-
